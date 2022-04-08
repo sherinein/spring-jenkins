@@ -13,6 +13,7 @@
 	<artifactId>spring-jenkis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-jenkis</name>
+	<packaging>war</packaging>
 	<description>Spring with jenkin integration</description>
 
 	<properties>
